@@ -28,7 +28,7 @@ export function AllServices() {
                 </p>
               </main>
               <footer>
-                <button>Ver Cestas</button>
+                <button>Criar Pedido</button>
                 <p>Novidade</p>
               </footer>
             </MarketSingleOrders>
