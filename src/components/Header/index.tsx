@@ -31,7 +31,7 @@ export function Header() {
                   <Nav>
                     <ul>
                       <li>
-                        <a href="#">Mudar Loja</a>
+                        <a href="/">Mudar Loja</a>
                       </li>
                       <li>
                         <span>Fazendo pedidos na Loja Tijuca</span>
