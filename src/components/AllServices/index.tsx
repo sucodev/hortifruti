@@ -68,7 +68,7 @@ export function AllServices() {
               </header>
               <main>
                 <p>
-                  Experimente nosso novo serviço em aprceira com a Orgânicos in
+                  Experimente nosso novo serviço em parceria com a Orgânicos in
                   Box!
                 </p>
               </main>
