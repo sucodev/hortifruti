@@ -1,0 +1,22 @@
+.servicesContainer {
+  .servicesContent {
+    > div {
+      gap: 20px;
+      justify-content: flex-end;
+    }
+    @media (max-width: 992px) {
+      > div {
+        margin: 20px auto;
+      }
+      width: 100%;
+    }
+    @media (max-width: 768px) {
+      > div {
+        justify-content: flex-start;
+      }
+      > div:nth-child(1) {
+        margin-top: 20px;
+      }
+    }
+  }
+}
