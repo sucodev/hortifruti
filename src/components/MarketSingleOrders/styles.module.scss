@@ -78,4 +78,22 @@
       }
     }
   }
+  &:nth-child(1) {
+    footer {
+      justify-content: flex-start;
+      p {
+        margin-left: 10px;
+      }
+    }
+  }
+  @media (max-width: 1400px) {
+    &:nth-child(1) {
+      footer {
+        justify-content: space-between;
+        p {
+          margin-left: 10px;
+        }
+      }
+    }
+  }
 }
